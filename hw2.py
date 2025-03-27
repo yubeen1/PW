@@ -1,4 +1,4 @@
-#사용자 정의 함수
+#사용자 정의 함수부
 def exchange(money) :
 
     n500 = money // 500
